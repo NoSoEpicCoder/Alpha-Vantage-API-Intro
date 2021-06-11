@@ -76,7 +76,6 @@ print(df)
 
 
 
-
 #Clean the response to only obtain the latest result
 
 
